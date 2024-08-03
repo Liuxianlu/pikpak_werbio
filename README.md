@@ -34,13 +34,14 @@ card_keys = {
 
 1. 下载`werbio.py`文件到本地用 Python 运行。
 2. 运行后提示什么错误就安装什么库，例如: `pip install requests`。
-3. 运行成功后复制网址到浏览器打开，输入邀请码 例：123456 卡密 例：0727-0827-3382SJ2SJ 即可运行在网页执行邀请程序，可搭建部署在服务器运行。
+3. 将接口卡密1，2，3替换为实际购买的邮箱卡密。将card_keys代码中自定义卡密及使用次数
+4. 运行成功后复制网址到浏览器打开，输入邀请码 例：123456 卡密 例：0727-0827-3382SJ2SJ 即可运行在网页执行邀请程序，可搭建部署在服务器运行。
 
-### 接口卡密
+### 邮箱API接口卡密
 
 将接口卡密1，2，3替换为实际购买的邮箱卡密。
 
-邮箱购买地址:
+邮箱卡购买地址:
 - [https://shanyouxiang.com/](https://shanyouxiang.com/)
 - [https://zhanghaoya.com/](https://zhanghaoya.com/)
 - [https://atufn.com/](https://atufn.com/)
