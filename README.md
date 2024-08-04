@@ -3,7 +3,7 @@
 
 ## 项目说明
 
-### pikpak会员自动邀请程序，python编写
+### pikpak会员自动邀请程序，python编写, 次日掉会员版本
 ### 原作者：B站纸鸢的花语
 ### 二改作者：非雨 
 GitHub：[https://github.com/liuxianlu/pikpak_werbio](https://github.com/liuxianlu/pikpak_werbio)
